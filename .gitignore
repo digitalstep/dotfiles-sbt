@@ -2,3 +2,4 @@
 boot/
 preloaded/
 target/
+/1.0/zinc/.sbt.cache.lock
